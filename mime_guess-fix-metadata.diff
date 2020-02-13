@@ -1,0 +1,11 @@
+--- mime_guess-2.0.1/Cargo.toml 1970-01-01T00:00:00+00:00
++++ mime_guess-2.0.1/Cargo.toml 2019-09-13T16:27:39.599697+00:00
+@@ -34,7 +34,7 @@
+ [dependencies.unicase]
+ version = "2.4.0"
+ [dev-dependencies.criterion]
+-version = "0.2"
++version = "0.3"
+ [build-dependencies.unicase]
+ version = "2.4.0"
+ 
